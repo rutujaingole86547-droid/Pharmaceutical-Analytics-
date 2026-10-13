@@ -1,0 +1,11 @@
+product_id,medicine_name,category,forecast_demand
+MED000016,Augmentin 265,Antibiotics,31830
+MED000014,Dolo 650 661,Analgesics,31739
+MED000002,Dolo 650,Respiratory,31608
+MED000017,Azithromycin 865,Dermatology,31580
+MED000020,Crocin 386,Analgesics,31529
+MED000011,Cetirizine,Diabetes,31501
+MED000015,Paracetamol 477,Neurology,31490
+MED000013,Cetirizine 792,Analgesics,31387
+MED000008,Cefixime,Diabetes,31375
+MED000018,Metformin 836,Analgesics,31324
